@@ -39,6 +39,14 @@ The analyzer evaluates passwords in layered phases:
 7. Entropy threshold evaluation
 8. Brute-force fallback estimation
 
+
+
+---
+
+## Requirments
+
+- No external dependencies
+
 This models realistic attacker behavior instead of naive length-based scoring.
 
 ---
